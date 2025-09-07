@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "YarpTester": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
